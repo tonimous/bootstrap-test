@@ -1,0 +1,78 @@
+body {
+    background-color: #CC9999;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    position: relative;
+    min-height: 100vh;
+}
+.navbar-brand, h3, h2 {
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 0.3rem;
+    font-size: 1.4rem;
+}
+.navbar-nav {
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+}
+nav {
+    opacity: 0.9;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.6);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #CC9966;
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #CC9933;
+}
+p {
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1.5;
+    color: #3d333a
+
+    ;
+}
+.jumbotron {
+    opacity: 0.85;
+    background-color: #CC9999;
+    background-size: 100% 100%; 
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-image: url(imgs/tim-mossholder-AEMkiiqiM0s-unsplash.jpeg);
+    width: 100%;
+}
+
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a {
+    text-decoration: none;
+    color: #3d333a;
+    opacity: 0.9;
+}
+footer div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.5rem;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* style for menu  */
+
+
+
+.menu-card {
+    margin-top: 10%;
+}
+
+
