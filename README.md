@@ -1,5 +1,6 @@
 # bootstrap-test
-## Imaginary candy-shop website using bootstrap4.
 
-I created this page to practice my bootstrap skills. All fotos are royalty free and taken from [unspash.com](https://unsplash.com/).
+## Sweet Treats in a Bootstrap Playground!
+
+This website is a fun experiment using Bootstrap 4 to build an imaginary candy shop. Explore royalty-free candy photos ([unspash.com](https://unsplash.com/)) and see how Bootstrap helps create a delightful browsing experience.
 
